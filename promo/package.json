@@ -1,0 +1,11 @@
+{
+  "name": "gamescrcpy-promo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GameScrcpy promotional video (Remotion)",
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "render": "remotion render GameScrcpy out/gamescrcpy-promo.mp4",
+    "still": "remotion still GameScrcpy out/still.png"
+  }
+}

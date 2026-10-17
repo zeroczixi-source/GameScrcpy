@@ -1,0 +1,18 @@
+﻿shot report
+SHOT s1_home_min rect=8,31 700x480
+STATE home_min win=8,31 700x480 scrollbars=0
+SHOT s2_home_big rect=8,31 1134x661
+navbtn 6
+SHOT s3_settings_min rect=8,31 700x480
+STATE settings_min win=8,31 700x480 scrollbars=2 sb1=108,503 592x8 sb2=700,31 8x472
+SHOT s4_settings_860 rect=8,31 884x661
+STATE settings_900 win=8,31 884x661 scrollbars=1 sb1=884,31 8x661
+SHOT s5_settings_big rect=8,31 1134x661
+STATE settings_big win=8,31 1134x661 scrollbars=1 sb1=1134,31 8x661
+SHOT s6_settings_max rect=0,23 1280x657
+STATE settings_max win=0,23 1280x657 scrollbars=1 sb1=1272,23 8x657
+SHOT s7_settings_restore rect=8,31 1134x661
+STATE settings_restore win=8,31 1134x661 scrollbars=1 sb1=1134,31 8x661
+navbtn2 6
+NO HELP WINDOW
+DONE
